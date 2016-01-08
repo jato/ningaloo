@@ -4,7 +4,7 @@ Template.home.events({
 
       new Confirmation({
         message: "",
-        title: "Welcome Alvin!",
+        title: "Welcome James!",
         cancelText: "LOGOUT",
         okText: "GO",
         success: true
