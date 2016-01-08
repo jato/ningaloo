@@ -3,8 +3,8 @@ App.info({
   name: 'Ningaloo',
   description: 'Tracking turtle nests one at a time.',
   author: 'TurtleTown',
-  email: 'aviocollective@gmail.com',
-  website: 'http://aviocollective.com',
+  email: 'jatobrown@gmail.com',
+  website: 'http://jatob.xyz',
   version: '0.0.1'
 });
 
